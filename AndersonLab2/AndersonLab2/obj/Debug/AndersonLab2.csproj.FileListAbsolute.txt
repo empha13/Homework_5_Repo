@@ -1,0 +1,11 @@
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\bin\Debug\AndersonLab2.exe.config
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\bin\Debug\AndersonLab2.exe
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\bin\Debug\AndersonLab2.pdb
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.Form1.resources
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.Properties.Resources.resources
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.csproj.GenerateResource.cache
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.exe
+C:\Users\emily\OneDrive\Documents\NBCC\2022-2023\Fall 2022\ITPA - Year 1 - Introduction to Programming\Projects\AndersonLab2\AndersonLab2\obj\Debug\AndersonLab2.pdb
